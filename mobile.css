@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) { /* Mobile */
+  header, .header-list, .aboutMe {
+    flex-direction: column;
+  }
+  .aboutMeTextContainer {
+    width: 95%;
+  }
+  .me {
+    width: 15rem;
+    height: 15rem;
+    margin-bottom: 5%;
+  }
+  footer {
+    font-size: 1rem;
+  }
+  header {
+    position: relative;
+  }
+  .header-h1 {
+    font-size: 1.7rem;
+  }
+  .header-list {
+    font-size: 1rem;
+  }
+  .header-list p {
+    margin-top: 10px;
+  }
+}
