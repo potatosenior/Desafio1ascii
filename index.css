@@ -9,7 +9,7 @@ header {
   font-family: 'Fira Sans';
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
   background-color: red;
   align-items: center;
   color: white;
@@ -92,15 +92,15 @@ header p, h1 {
   border-radius: 10px;
 }
 .me {
-  width: 20rem;
-  height: 20rem;
+  width: 15rem;
+  height: 15rem;
   border-radius: 50%;
   border: 0.1rem solid black;
   box-shadow: 0px 0px 20px 4px rgba(0,0,0,0.75);
 }
 
 .aboutMeTitle {
-font-weight: 500;
+font-weight: 300;
 margin-bottom: 5%;
 }
 

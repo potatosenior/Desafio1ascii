@@ -5,9 +5,12 @@
   .aboutMeTextContainer {
     width: 95%;
   }
+  .aboutMeDescription, .aboutMeTitle {
+    padding: 0.5rem;
+  }
   .me {
-    width: 15rem;
-    height: 15rem;
+    width: 12rem;
+    height: 12rem;
     margin-bottom: 5%;
   }
   footer {
